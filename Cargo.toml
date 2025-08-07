@@ -1,5 +1,5 @@
 [package]
-name = "p3"
+name = "p3-standalone"
 version = "0.1.0"
 repository = "https://github.com/paladin-bladesmith/p3-cli.git"
 edition = "2021"

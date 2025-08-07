@@ -93,7 +93,7 @@ async fn main() {
         Arc::new(Keypair::new())
     };
 
-    info!("P3 Identity: {}", keypair.pubkey());
+    info!("P3-Standalone Identity: {}", keypair.pubkey());
 
     solana_metrics::set_host_id(format!(
         "{}_{}",
